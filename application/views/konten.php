@@ -91,10 +91,7 @@
                         <i class="fab fa-css3-alt"></i>
                         <h2>Highest Score</h2>
                         <p>Peraih skor try out UTBK tertinggi di Teknologi Informasi UGM</p>
-                        <button><a href="https://github.com/sanketbodke/CodePen" target="_blank">View source <i
-                            class="fas fa-external-link-alt"></i></a>
-                        </button>
-                        <button><a href="https://codepen.io/sanketbodke/pen/NWgKyZW" target="_blank">Try it Live <i
+                        <button><a href="https://tryout.pahamify.com/" target="_blank">TRY IT <i
                             class="fas fa-external-link-alt"></i></a>
                         </button>
                     </div>
@@ -105,10 +102,9 @@
                 font-family: monospace;
                 }
                     </style>
-
-                    <p class="monospace">
-                        Tulisan
-                    </p>
+                <p class="monospace">
+                    Tulisan Saya
+                </p>
                     <a href="https://id.quora.com/profile/Muhammad-Alwin-Prima" target="_blank">Quora</a>
 
                 </div>
